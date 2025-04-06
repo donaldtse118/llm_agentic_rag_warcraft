@@ -1,0 +1,9 @@
+llama-index
+llama-index-llms-cohere==0.2.0 
+llama_index.embeddings.cohere #for cohere embeddings
+# llama-index-readers-web
+
+# for access vector storage index
+# qdrant-client==1.9.1
+# llama-index-vector-stores-qdrant==0.2.8
+# chromedriver-autoinstaller # for whole site crawl
